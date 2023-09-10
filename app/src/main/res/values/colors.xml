@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="button_enable_background">#06CFE8</color>
+    <color name="button_disable_background">#3E4ABC</color>
+    <color name="header_color_for_activity">#00FFD8</color>
+    <color name="blue">#FF3E4ABC</color>
+    <color name="profile_upper">#78C1F3</color>
+    <color name="profile_lower">#EEEEEE</color>
+</resources>

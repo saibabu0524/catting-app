@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">loginpage</string>
+    <string name="required">Required</string>
+    <string name="channel_name">alert</string>
+    <string name="description">The Channel is for notifications</string>
+    <string name="firstname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="gmail">gmail</string>
+    <string name="password">password</string>
+    <string name="gallery_image">gallery_image</string>
+    <string name="open_gallery">Open gallery</string>
+    <string name="access_camera">access camera</string>
+    <string name="the_deleted_users">The Deleted Users</string>
+    <string name="don_t_have_account">Don\'t have account</string>
+    <string name="name_of_the_user">name of the user</string>
+    <string name="conform_password">conform password</string>
+</resources>
